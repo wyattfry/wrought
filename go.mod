@@ -1,6 +1,6 @@
 module wrought
 
-go 1.23
+go 1.23.2
 
 require (
 	github.com/go-resty/resty/v2 v2.15.3 // indirect
